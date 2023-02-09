@@ -34,8 +34,8 @@ function formatTime(time){
 }
 
 function randomAlarm() {
-  var min = 30; // minimum interval in seconds
-  var max = 500; // maximum interval in seconds
+  var min = 60; // minimum interval in seconds
+  var max = 1800; // maximum interval in seconds
   var interval = Math.floor(Math.random() * (max - min + 1) + min) * 1000;
   console.log("Alarm will go off in " + interval / 1000 + " seconds.");
   alarmInterval = setTimeout(function() {
