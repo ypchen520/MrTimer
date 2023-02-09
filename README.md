@@ -1,5 +1,8 @@
 # Micro-Rest Timer
 
+![timer](./image/timer.png)
+![alarm](./image/alarm.png)
+
 - This is a toy project implementing a timer that incorporates the "micro-rest" concept
 - ["Insert Micro-Rest Interval (at Random)" The Neuroplasticity Super Protocol by Dr. Andrew Huberman](https://www.youtube.com/watch?v=izOI-gHiRpk)
 

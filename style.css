@@ -3,7 +3,7 @@
 }
 
 body {
-    background-image: url("./beach.jpg");
+    background-image: url("./image/beach.jpg");
     background-size: cover;
     background-position: center center;
     display: flex;
